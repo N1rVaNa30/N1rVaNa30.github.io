@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "N1rvana1337"
+title                    : "Yuxiao Tang"
 title_separator          : "-"
-name                     : &name "N1rvana1337"
+name                     : &name "Yuxiao Tang"
 description              : &description "Academic profile and research portfolio"
 url                      : https://n1rvana30.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "N1rVaNa30/N1rVaNa30.github.io"
 author:
   # Biographic information
   avatar           :
-  name             : "N1rvana1337"
+  name             : "Yuxiao Tang"
   pronouns         : # example: "she/her"  
   bio              : "Academic profile and research portfolio"
   location         :

@@ -1,4 +1,4 @@
-# N1rvana1337 - Academic Website
+# Yuxiao Tang - Academic Website
 
 Personal academic website built with the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template and published through GitHub Pages.
 
