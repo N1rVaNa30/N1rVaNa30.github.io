@@ -25,17 +25,17 @@ author:
   # Biographic information
   avatar           :
   name             : "Yuxiao Tang"
-  pronouns         : # example: "she/her"  
-  bio              : "Academic profile and research portfolio"
-  location         :
-  employer         :
+  pronouns         : "he/him"  
+  bio              : ""
+  location         : "Hanover, New Hampshire"
+  employer         : Dartmouth College
   uri              : # URL
-  email            :
+  email            : "yuxiao.tang.gr@dartmouth.edu"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    :
+  googlescholar    : # https://scholar.google.com/citations?hl=en&user=KgkWWHkAAAAJ
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            :
