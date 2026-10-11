@@ -1,11 +1,11 @@
-# N1rvana1337 — Personal Website
+# N1rvana1337 — Academic Website
 
-Personal and academic website built with Astro and published through GitHub Pages.
+Personal academic website built with the [Academic Pages](https://github.com/academicpages/academicpages.github.io) Jekyll template and published through GitHub Pages.
 
-## Local development
+## Main content
 
-```powershell
-cd site
-npm.cmd install
-npm.cmd run dev
-```
+- Site settings and sidebar: `_config.yml`
+- Homepage: `_pages/about.md`
+- Navigation: `_data/navigation.yml`
+- Publications: `_publications/`
+- CV page: `_pages/cv.md`
